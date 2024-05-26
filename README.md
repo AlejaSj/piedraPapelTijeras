@@ -1,11 +1,11 @@
-# piedraPapelTijeras
+# piedraPapelTijeras ✊🏻🤚🏻✌🏻
 
-## Descripción del Proyecto
+## Descripción del Proyecto 🗒️
 El proyecto "Piedra, Papel, Tijeras" es una implementación interactiva del clásico juego de manos, utilizando tecnologías web estándar: HTML, CSS y JavaScript. El objetivo del juego es que el jugador compita contra la computadora en una serie de rondas, eligiendo entre piedra, papel o tijeras, y ver quién acumula más victorias.
 
 ***
 
-## Componentes del Proyecto
+## Componentes del Proyecto 📁
 
 1. **HTML**:
 - Estructura básica de la página.
